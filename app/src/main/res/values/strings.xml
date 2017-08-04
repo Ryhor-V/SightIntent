@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SightIntent</string>
+    <string name="sight_title_hint">Enter a title for the sight.</string>
+    <string name="sight_title_label">Title</string>
+    <string name="sight_details_label">Details</string>
+    <string name="sight_shared_label">Shared?</string>
+</resources>
